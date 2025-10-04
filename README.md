@@ -1,4 +1,6 @@
 Welcome to the CSE Club's Class 02 Web Development Assignment repository! This project contains a set of beginner and intermediate web development tasks using **HTML + CSS** and **HTML + Tailwind CSS**.
+<img width="3000" height="3000" alt="33026991-85e2-4f87-a26b-46923e4fc2a5" src="https://github.com/user-attachments/assets/11f25108-4ddd-4ce7-b164-ba00733c9b5f" />
+
 
 ---
 
